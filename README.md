@@ -9,7 +9,6 @@
 
 1.  **Data Preparation for Training, Validation and Testing**
     1. Please download preprocessed iSAID dataset that contains image segmentation masks.
-
     [Link](https://cnu365-my.sharepoint.com/:f:/g/personal/minjin03133_o_cnu_ac_kr/Ev27hOinbnNLhJvfQnCkjdMBlOKRwrWVnu3VYxh-LhHXMw?e=gO3hx5)
     
     
