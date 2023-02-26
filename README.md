@@ -8,7 +8,8 @@
 **Datasets for Instance Segmentation**
 
 1.  **Data Preparation for Training, Validation and Testing**
-    1. Please download iSAID dataset that contains image segmentation masks. Also, download preprocessed images from DOTA dataset. 
+    1. Please download iSAID dataset that contains image segmentation masks. Also, download preprocessed images from DOTA dataset.
+    
     Make sure that the final dataset must have this structure:
 
     ```
